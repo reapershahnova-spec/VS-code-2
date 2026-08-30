@@ -1,0 +1,14 @@
+body{
+    background-color: #f4fff4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jumbotron{
+    background-color: #8abb99;
+    border-left: 6px solid #FF5A43;
+}
+.jumbotron h1{
+    color: #FF5A43;
+}
+.section-title{ 
+    color: aliceblue;
+}
